@@ -10,7 +10,7 @@ Trollitch es una aplicación de escritorio diseñada para descargar transmisione
 - Interfaz gráfica amigable desarrollada con `Tkinter`.
 - Selección de calidad de descarga: mejor o peor disponible.
 - Barra de progreso visual para monitorear el estado de la descarga.
-- Compatible con la conversión automática a MP3 utilizando `FFmpeg`
+- Compatible con la conversión automática a MP3 utilizando `FFmpeg`.
 
 ## Requisitos
 
